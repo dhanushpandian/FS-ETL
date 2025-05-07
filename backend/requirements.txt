@@ -1,0 +1,15 @@
+
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.7
+pymongo==4.5.0
+pyodbc==4.0.39
+sqlalchemy==2.0.20
+pymysql==1.1.0
+pandas==2.1.0
+langchain==0.0.312
+langchain-google-genai==0.0.5
+langchain-openai==0.0.2
+python-multipart==0.0.6
